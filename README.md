@@ -3,14 +3,14 @@
 This is the greatest and best code in the world.
 Tribute.
 
-Long time ago me and my brothers Ben and Henry here:
+Long time ago me and my brothers Tyler and Henry here:
 We was zoomin' workin' some long and gnarly code.
 All of a sudden, there shined a shiny daemon coming at us through Node
 And he said,
 
 "Write me the best code in the world, or I'll eat your soul."
 
-I looked at Henry and Ben, and we each said, "Okay."
+I looked at Henry and Tyler, and we each said, "Okay."
 
 And we coded the first thing that came to our heads,
 Just so happened to be
