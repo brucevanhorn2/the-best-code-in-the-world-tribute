@@ -1,5 +1,5 @@
 # the-best-code-in-the-world-tribute
-## A parody of "The Best Song in the World" by TenaciousD.
+## A parody of "Tribute" (a.k.a.  The Best Song in the World) by TenaciousD.
 This is the greatest and best code in the world.
 Tribute.
 
